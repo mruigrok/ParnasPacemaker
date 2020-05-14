@@ -1,3 +1,2 @@
 # ParnasPacemaker
-3K04 gang
-Pacemaker control done using Simulink, user interface using node.js
+Pacemaker control was implemented using Simulink and the user interface for adjusting paramaeters built using node.js
